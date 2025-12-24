@@ -1,8 +1,9 @@
 # Public Self-Balanced Market (PSBM) Protocol
 ### A Sovereign Asset Class resolving Shiller's "Trills" Paradox.
-
 **Status:** Theoretical Framework v1.0  
-**Author:** [Tuo Nome]
+**Author:** Emanuele Serra
+
+### 🎧 [Listen to the AI Deep Dive (Audio Podcast)](./PSBM Protocol.m4a)
 
 This repository contains the mathematical validation and the whitepaper for the **Public SBM Protocol**, a Layer-3 financial architecture designed to make GDP-linked Sovereign Bonds liquid and viable.
 
